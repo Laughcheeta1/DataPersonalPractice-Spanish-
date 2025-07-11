@@ -1,3 +1,6 @@
+# Important
+This is a project I did a long time ago, and it is in spanish
+
 ## Descripción del problema
 Prediccion sobre si una persona va a adquirir (o no) un producto financiero en base a datos los cuales no requieran de un contacto previo con la persona, es decir, que el banco no tuviera comunicacion alguna con respecto a dicho producto anteriormente.
 
